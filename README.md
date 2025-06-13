@@ -1,2 +1,2 @@
-# cs exxersise-team9-project
+# cs exersise2-team9-project
 チームでウェブページを構成する演習
