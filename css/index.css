@@ -11,4 +11,10 @@
 .map-img {
   width: 100%;
   display: block;
+
+html{
+    font-family: serif;
+}
+p1{
+    font-size: 20px;
 }
