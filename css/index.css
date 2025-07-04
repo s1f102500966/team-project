@@ -1,18 +1,25 @@
-.map-container{
+.map-container {
     width: 90vw;
     max-width: 1200px;
     margin: 30px auto;
 }
 
 .map-img {
-  width: 100%;
-  display: block;
+    width: 100%;
+    display: block;
 }
 
-html{
+.marker {
+    position: absolute;
+    width: 70px;
+    cursor: pointer;
+}
+
+html {
     font-family: serif;
 }
-p1{
+
+p1 {
     font-size: 20px;
     text-align: center;
 }
