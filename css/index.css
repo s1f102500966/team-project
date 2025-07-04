@@ -1,4 +1,5 @@
 .map-container {
+    position: relative;
     width: 90vw;
     max-width: 1200px;
     margin: 30px auto;
@@ -11,8 +12,8 @@
 
 .marker {
     position: absolute;
-    width: 70px;
     cursor: pointer;
+    transform: translate(-50%, -50%)
 }
 
 html {
